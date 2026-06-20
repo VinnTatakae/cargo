@@ -1,0 +1,1 @@
+Cargo adalah aplikasi rental mobil berbasis mobile yang memungkinkan pengguna melakukan pemesanan kendaraan secara online. Admin dapat mengelola data kendaraan, memproses pesanan, dan memantau status penyewaan.
